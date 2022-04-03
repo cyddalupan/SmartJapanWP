@@ -1,0 +1,684 @@
+/*
+Theme Name: Smart
+Author: Alpha245
+Description: Smart Japan
+Version: 1.1
+*/
+body{
+	overflow-x: hidden;
+}
+h1,h2,h3,h4,h5,h6,p{
+	padding:0;
+	margin:0
+}
+.white{
+	color:#ffffff;
+	}
+.glyphicon-nav{
+		padding-top:15px;
+	}	
+.nav li{
+	padding-left:50px;	
+	}
+
+.free_calls{
+	margin:20px 0;
+}
+
+.free_calls .col-sm-12 img {
+    margin: 20px;
+    margin-top: 85px;
+}
+.login_btn, .phone_img, .mail_img{
+	margin:10px;
+}
+
+.applynow_btn{
+	margin:10px;
+}
+
+.questions_concerns{
+	background:#cbdb2a;
+	padding:20px 0;
+	text-align:center;
+	vertical-align: middle
+}
+
+
+.connect{
+	margin:20px 0;
+}
+.learnmore_section {
+   
+	display:block
+}
+
+.row_circle p{
+	margin-top: 30px;
+	}
+.row_title_learnmore p {
+    margin-top: 40px;
+	color: #019ad7;
+}
+.row_circle .col-sm-4{
+ 	text-align:center;
+	padding: 60px;
+	font-size:27px;
+	}
+
+.row_circle .learnmore{
+ 	text-align:center;
+	margin-top: 40px;
+	}
+.row_circle img{
+    width: 300px;
+    height: auto;
+    vertical-align: middle;
+
+	}
+.row_circle .learnmore img{
+    margin-top: 45px;
+
+	}
+	.wordpress-post {
+    height: 400px;
+}
+
+.container_applynow {
+	text-align:center;
+	background-color: #009ada;
+	}
+	
+.container_applynow h1{
+	color: white;	
+}
+input#input_applynow{
+    width: 300px;
+    height: 55px;
+    margin-right: 10px;
+    margin-bottom: 8px;
+	margin-top:10px;
+    background-color: #eeeeee;
+	}
+input#input_prefecture {
+    width: 612px;
+    height: 55px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+	margin-top:10px;
+    background-color:#eeeeee;;
+}
+textarea.form-control.mailingInput {
+    width: 615px;
+    height: 150px;
+    margin-left: -9px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: #eeeeee;;
+}
+.title_learnmore h1 {
+    color: #019ad7;
+}
+.row.questions_concerns img {
+    margin-bottom: 28px;
+}
+.questions_concerns h3 {
+    color: #0099cc;
+}
+.container_applynow h1{
+	    
+	margin: 45px 0 25px 0;
+	padding:45px;
+	}
+
+	
+.products{
+	background:#cccccc;
+	font-size: 18px;
+	}
+	
+.products .product_content{
+ 	text-align:center;
+	padding: 46px;
+	}
+
+.products img{
+    width: 300px;
+    height: auto;
+    vertical-align: middle;
+	margin: 69px 0 15px 0;
+	}
+
+.continue_btn {
+    text-align: center;
+    margin-bottom: 105px;
+	margin-top: 40px;
+	margin-right: -285px;
+}
+
+<<<<<<< HEAD
+.continue_btn img {
+    width: 300px;
+}
+=======
+
+>>>>>>> origin/nicelBranch4
+/*nicel*/
+.header-logo{
+    width: 246px;
+    float: left;
+    padding-left: 20px;
+}
+.menu-header-nav{
+	padding-left: 30%;
+}
+
+.custom-nav ul li{
+       float:left;
+       font-size: 18px;
+       list-style-type: none;
+       background-repeat: no-repeat;
+       background-position: left; 
+<<<<<<< HEAD
+       background-color:#009ADA;
+	   line-height: 38px;
+	   padding: 0 0 0 40px;
+	   margin: 10px;
+	   
+=======
+       background-color:#019ad7;
+       background-position-x: 18px;
+       padding-left:7%;
+>>>>>>> origin/nicelBranch4
+}
+.custom-nav a{
+  color:#ffffff;
+  text-decoration: none; 
+}
+.custom-nav-header{
+	  color:#ffffff; 
+<<<<<<< HEAD
+	  background-color: #333;
+	  padding: 10px 0;
+=======
+	  background-color: #019ad7;
+>>>>>>> origin/nicelBranch4
+	  font-size: 23px;
+}
+.signup-menu-header{
+	background-image: url('images/login.png');
+	background-repeat: no-repeat;
+}
+.menu-item-22{
+  background-image: url('images/login.png');
+  background-repeat: no-repeat;
+}
+.menu-item-9{
+  background-image: url('images/home.png');
+}
+
+.menu-item-15{
+  background-image: url('images/products.png');
+}
+
+.menu-item-23{
+  background-image: url('images/apply.png');
+} 
+
+.login-header h2{
+  font-weight: bold;
+  text-align: center;
+  color:#18a5de;
+  padding-top: 41px;
+  padding-bottom: 10px;
+}
+.login-checkbox{
+  padding-right: 10px;
+}
+.login-learnmore-btn{
+
+  text-align: center;
+}
+.login-learnmore-btn img{
+    width:200px;  
+    margin:auto;
+}
+
+.login-box{
+	background-color: #DCDCDC;
+	border:1px;
+	border-width: 50px;
+}
+
+.login-parag{
+	text-align: left;
+    padding: 6px 543px;
+    font-size: 18px;
+    color: #000000;
+	}
+.login-parag-header{
+	display: block;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+.login-input{
+	padding: 12px 0px;
+    width: 20%;
+    font-size: 20px;
+}
+.login-input h5{
+	padding-left: 12px 100%;
+    
+}
+.login-input-row{
+	text-align: center;
+	padding:10px;
+}
+.smart-sim-num h5{
+	font-size: 20px;
+}
+.footer-text{
+  text-align: center;
+  padding:27px;
+  color: #019ad7;
+}
+
+.Del_add input{
+	height: 80px;
+}	
+
+
+.accdown-logo{
+	cursor: pointer;
+}
+	.account-only-navigation{
+		display: block;
+	}
+
+@media only screen and (max-width: 1007px) {
+	.mailingInput{
+		width: 604px;
+	}
+	#input_prefecture {
+		width: 608px;
+		margin-right: -12px;
+	}
+	.header-menu{
+	background-color: #019ad7;
+}
+
+}
+
+.footer-text{
+  text-align: center;
+  padding:27px;
+}
+
+.Del_add input{
+	height: 80px;
+}	
+
+
+.accdown-logo{
+	cursor: pointer;
+}
+	.account-only-navigation{
+		display: block;
+	}
+
+@media only screen and (max-width: 1007px) {
+	.mailingInput{
+		width: 604px;
+	}
+	#input_prefecture {
+		width: 608px;
+		margin-right: -12px;
+	}
+
+}
+
+.custom-nav-header{
+	display: none;
+}
+.hide-login{
+	display: none;
+}
+.header-menu{
+<<<<<<< HEAD
+	background-color: #009ADA;
+}
+
+@media only screen and (max-width: 996px) {
+	/* media query for cath only, do not touch */	
+	.free_calls .col-sm-12 img {
+    	margin: auto;
+		display:block;
+
+	}
+	.row_circle img{
+
+		max-width:300px;
+    	height:auto;
+    	display:block;
+		vertical-align: middle;
+		margin:auto;
+		float:none;
+		margin-bottom: 30px;
+	}
+	.row_circle .col-sm-4{	
+		margin-bottom: -80px;
+		padding: 40px;
+	}
+	.row_circle .learnmore img{
+
+		margin-top: 10px;
+		display:block;
+		max-width:230px;
+	}
+	.row_circle .learnmore {
+		/* margin: auto; */
+   	 	margin: auto;
+    	margin-bottom: 90px;
+	}
+	.row_circle p{
+		display:block;
+		font-size:20px;
+	}
+
+	.container_applynow {
+   	 	text-align:center;
+	}	
+	input#input_applynow{
+    	margin-left:auto;
+    	margin-right:auto;
+	}
+
+	textarea.form-control.mailingInput {
+   	 	
+    	height: 150px;
+		display:block;
+		margin-left: auto !important;
+		margin-right: auto !important;
+	
+	}
+	.container_applynow input{
+		display:block;	
+   	 	margin: auto;
+    	margin-bottom: 14px;
+		width:75%;
+		height: 60px;
+	
+	}
+	.questions_concerns img {
+
+		display:block;
+		margin: auto;
+		margin-bottom:50px;
+		margin-top: 20px;
+	}
+
+	.Del_add input{
+	 	height: 150px;
+	}	
+
+	.products img{
+		width:90% !important;
+		max-width:300px;
+    	height:auto;
+    	display:block;
+		vertical-align: middle;
+		margin:auto;
+		float:none;
+		margin-bottom: 20px;
+		margin-top: 50px;
+	}
+	.products p {
+	 margin: auto;
+	
+		}
+=======
+	background-color: #019ad7;
+>>>>>>> origin/nicelBranch4
+}
+
+@media screen and (max-width: 321px) {
+		.footer-text{
+			font-size: 12px;
+		}
+	}
+@media screen and (max-width: 416px) {
+	.menu-text{
+		padding-left: 8%;
+	}
+}
+@media screen and (max-width: 376px) {
+	.menu-text{
+		padding-left: 5%;
+	}
+}
+@media screen and (max-width: 950px) {
+	.login-parag{
+	    display: block;
+	    text-align: left;
+	    padding: 0px 47px;
+	    font-weight: bold;
+	    font-size: 15px;
+	}
+	.login-input{
+		padding: 12px 0px;
+	    width: 82%;
+	    font-size: 12px;
+	}
+	.login-input-row{
+		text-align: center;
+		padding:10px;
+	}
+
+	.account-only-navigation{
+		display: none;
+	}
+	.header-logo {
+		width:260px;
+		float:none;
+	}
+
+	.header-menu{
+<<<<<<< HEAD
+		background-color: #666666;
+
+=======
+		background-color: #019ad7;
+>>>>>>> origin/nicelBranch4
+	}
+
+	.myaccount-logo img{
+		width: 38px;
+		height: 38px;
+		text-align: center;
+	}
+	.accdown-logo{
+		background-color: #019ad7;
+		padding-top: 12px;
+	 	padding-bottom: 10px;
+	 	border-left: 2px #ffffff solid;
+	}
+	.hide-login{
+		display: block;
+	}
+	.custom-nav-header{
+	  color:#ffffff; 
+<<<<<<< HEAD
+	  background-color: #FFF;
+	  padding: 0;
+=======
+	  background-color: #019ad7;
+>>>>>>> origin/nicelBranch4
+	  font-size: 23px;
+	  padding-top: 0px;
+	  padding-left: 10%;
+	  display: block;
+
+	}
+	.custom-nav-header .dropdown-logo{
+<<<<<<< HEAD
+			cursor: pointer;
+=======
+		cursor: pointer;
+		padding-top: 13px;
+>>>>>>> origin/nicelBranch4
+	}
+	.custom-nav ul li{
+       float:left;
+       /*color:green;*/
+       font-size: 21px;
+       list-style-type: none;
+       padding: 14px 50px;
+       background-size: 38px 38px;
+       background-repeat: no-repeat;
+       background-position: left; 
+       background-color:#019ad7;
+       background-position-x: 18px;
+       padding-left: 20%;
+	   margin: 0;
+	}
+	.login-menu-header{
+<<<<<<< HEAD
+		/*margin-left: -40px;
+    	border-bottom:1px solid #ffffff;*/
+=======
+		margin-left: -40px;
+    	margin-top: 0px;
+    	border-bottom:1px solid #ffffff;
+>>>>>>> origin/nicelBranch4
+	}
+
+
+	.signup-menu-header{
+		/*margin-left: -40px;*/
+	}
+    #menu-header-nav{
+      padding:0;
+    }
+    #menu-header-nav li{
+      margin:auto;
+    } 
+    .custom-nav ul li{
+       float:none;
+       padding-left: 63px;
+    }
+    .menu-item-22{
+       border-top:1px solid #ffffff;
+       border-bottom:1px solid #ffffff;
+       padding-left: 20px;
+    }
+    .menu-item-9{
+      border-bottom:1px solid #ffffff;
+      border-top: 1px #ffffff solid;
+    }
+    .menu-item-15{
+      border-bottom:1px solid #ffffff;
+    }
+<<<<<<< HEAD
+ 	.menu-item-23{
+ 		border-bottom:1px solid #ffffff;
+ 	}
+=======
+    .menu-text{
+	  padding-left: 45px;
+	  padding-top: 13px;
+	
+}
+>>>>>>> origin/nicelBranch4
+}
+
+}
+
+
+
+
+.Del_add input{
+	 height: 80px;
+	}	
+
+/* mikepehipol start */
+.custom-nav-header .col-xs-10 {
+	padding: 0;
+}
+.menu-main { 
+	margin-right: 2px; 
+	padding: 10px 20px; 
+	background-color: #009ADA; 
+	height: 52px;
+}
+.menu-main  .menu-title { 
+	padding-left: 15px;
+}
+.menu-main  .glyphicon { 
+	float: right;
+}
+.menu-account { 
+	padding: 0px;
+	background-color: #009ADA; 
+	height: 52px;
+}
+.menu-account img { 
+	padding:7px;
+}
+.myaccount-logo {
+	display: block;
+	margin: auto;
+}
+ul.account-menu {
+	padding: 0;
+}
+
+/* mikepehipol end */
+		
+		
+@media only screen and (max-width: 996px) {
+	/* media query for cath only, do not touch */	
+	.free_calls .col-sm-12 img {
+    	margin: auto;
+		display:block;
+
+@media only screen and (max-width: 883px) {
+	.wordpress-post img{
+		width:90% !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		display:block;
+	}
+	.learnmore img {
+		width:90% !important;
+    	margin-top: auto !important;
+	}
+	
+			
+}
+
+
+@media screen and (max-width: 767px) {
+	#input_prefecture {
+		width: 300px !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+			
+	}
+	textarea.form-control.mailingInput {
+		width: 300px !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+	}
+	.continue_btn img {
+		width: 250px !important;
+
+	}
+	.continue_btn {
+		margin-right: auto !important;
+		margin-bottom: 55px !important;
+	}
+
+}
+
+
